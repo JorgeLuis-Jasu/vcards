@@ -1,0 +1,4 @@
+google-credentials.json
+node_modules/
+docker-compose.override.yml
+base2.sql
